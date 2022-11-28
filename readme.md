@@ -1,4 +1,4 @@
-### SRG0Z10 [MAINNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#mainnet-participation) | [TESTNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#testnet-participation)
+### SRG0Z10 | [MAINNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#mainnet-participation) | [TESTNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#testnet-participation)
 
 An independent POS  validator in a vast, vast Cosmos.
 
