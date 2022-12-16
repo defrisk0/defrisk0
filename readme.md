@@ -1,4 +1,4 @@
-### SRG0Z10 | [MAINNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#mainnet-participation) | [TESTNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#testnet-participation) | [CHECK ALL](http://srgts.xyz:8888)
+### SRG0Z10 | [MAINNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#mainnet-participation) | [TESTNET](https://github.com/defrisk0/srg0z10/blob/main/README.md#testnet-participation) | [CHECK ALL](http://tenderduty.srgts.xyz:8888/)
 
 Independent POS  validator in a vast, vast Cosmos.
 
