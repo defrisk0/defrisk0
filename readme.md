@@ -2,4 +2,4 @@
 
 Independent POS  validator in a vast, vast Cosmos.
 
-[TELEGRAM](https://t.me/srg0z10) | [DISCORD](https://discord.com/users/SRG_TS#3469) | [EMAIL](mailto:sergpsy00@gmail.com) | [TWITTER](https://twitter.com/SergeyMSH) | [WEBSITE](https://srgts.xyz)
+[TELEGRAM](https://t.me/srg0z10) | [DISCORD](https://discord.com/users/srg0z10) | [EMAIL](mailto:sergpsy00@gmail.com) | [TWITTER](https://twitter.com/SergeyMSH) | [WEBSITE](https://srgts.xyz)
